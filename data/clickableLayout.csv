@@ -1,0 +1,12 @@
+ID,Name,State,PNGFilename,Text,x,y,visible
+0,StartScenario,Characters,,Start Scenario,100,650,yes
+1,PowerWin,Start,,Electricity company,100,600,yes
+2,OilWin,Start,,Oil company,400,600,yes
+3,AutoWin,Start,,Automobile manufacturer,700,600,yes
+4,PowerDo,Power,,Yes: Do it!,100,600,yes
+5,PowerWant,Power,,Yes: Want it!,300,600,yes
+6,PowerEnd,Power,,Ignore Them,500,600,yes
+7,OilUnlike,Oil,,Unlike,100,600,yes
+8,OilChange,Oil,,Change,300,600,yes
+9,AutoDo,Auto,,YES: Do it!,500,600,yes
+10,AutoWant,Auto,,YES: Want it!,700,600,yes

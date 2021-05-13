@@ -1,0 +1,12 @@
+ID,StateName,ClassName,PNGFilename,CollisionFilename
+0,Splash,PNGRoom,assets/Splash.png,
+1,Instructions,PNGRoom,assets/Instructions.png,
+2,Characters,PNGRoom,assets/Characters.png,
+3,Start,ScenarioRoom,assets/Background.png,
+4,Power,ScenarioRoom,assets/Background.png,
+5,Oil,ScenarioRoom,assets/Background.png,
+6,Auto,ScenarioRoom,assets/Background.png,
+7,Want,ScenarioRoom,assets/Background.png,
+8,Doo,ScenarioRoom,assets/Background.png,
+9,End,ScenarioRoom,assets/Background.png,
+10,Unlike,ScenarioRoom,assets/Background.png,
